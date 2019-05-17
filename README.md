@@ -29,5 +29,5 @@ Dia 26 de Janeiro, sábado às 16h, será nosso I MeetUp. O evento vai consistir
 * [KeplerGL para visualizar dados Geolocalizados](Geo_Data_Visualization_using_Kepler.gl.pdf)
   - Por [Matheus Monte](https://www.linkedin.com/in/matheus-monte/)
   
-* [Indústria 4.0]
+* [Indústria 4.0](industria_4.0.pdf)
   - Por [Celso Carvalho](https://www.linkedin.com/in/celso-carvalho-52181798/)
