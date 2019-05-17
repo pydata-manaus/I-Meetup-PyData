@@ -20,13 +20,13 @@ Dia 26 de Janeiro, sábado às 16h, será nosso I MeetUp. O evento vai consistir
 * [Pip Install Dask for Data Science]
   - Por: [Alice Adativa](https://www.linkedin.com/in/alice-adativa/)
   
-* [Deep KNN]([Talk] Deep Knn.pdf)
+* [Deep KNN](Deep_Knn.pdf)
   - Por: [Lucas Frota](https://www.linkedin.com/in/lucas-frota/)
   
 * [Machine Learning em Embarcados](https://docs.google.com/presentation/d/1xgyvfgWD2kVmdAxsJ407GWGDq7dfa45zvxKlyiR9L8I/edit#slide=id.p)
   - Por [Wilson Neto](https://www.linkedin.com/in/netoolii/)
   
-* [KeplerGL para visualizar dados Geolocalizados]([Talk] Geo Data Visualization using Kepler.gl.pdf)
+* [KeplerGL para visualizar dados Geolocalizados](Geo_Data_Visualization_using_Kepler.gl.pdf)
   - Por [Matheus Monte](https://www.linkedin.com/in/matheus-monte/)
   
 * [Indústria 4.0]
