@@ -18,10 +18,10 @@ Dia 26 de Janeiro, sábado às 16h, será nosso I MeetUp. O evento vai consistir
 ## Links
 
 * [Pip Install Dask for Data Science]
-  - Por: [Alice Adativa](https://www.linkedin.com/in/alice-adativa/)
+  - Por [Alice Adativa](https://www.linkedin.com/in/alice-adativa/)
   
 * [Deep KNN](Deep_Knn.pdf)
-  - Por: [Lucas Frota](https://www.linkedin.com/in/lucas-frota/)
+  - Por [Lucas Frota](https://www.linkedin.com/in/lucas-frota/)
   
 * [Machine Learning em Embarcados](https://docs.google.com/presentation/d/1xgyvfgWD2kVmdAxsJ407GWGDq7dfa45zvxKlyiR9L8I/edit#slide=id.p)
   - Por [Wilson Neto](https://www.linkedin.com/in/netoolii/)
