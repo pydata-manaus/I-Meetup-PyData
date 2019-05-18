@@ -1,7 +1,4 @@
 # I-Meetup-PyData
-Links das palestras do 1 Meetup do PyData Manaus
-
-# I-Meetup-PyData
 Dia 26 de Janeiro, sábado às 16h, será nosso I MeetUp. O evento vai consistir de um conjunto de seis palestras de até 30 min abordando temas relacionados a ciência de dados, incluindo ferramentas, cases de sucesso, novos conceitos, etc.
 
 ## Agenda
