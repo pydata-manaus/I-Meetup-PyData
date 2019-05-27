@@ -14,7 +14,7 @@ Dia 26 de Janeiro, sábado às 16h, será nosso I MeetUp. O evento vai consistir
 
 ## Links
 
-* [Pip Install Dask for Data Science]
+* [Pip Install Dask for Data Science](pip_install_dask_for_data_science.pdf)
   - Por [Alice Adativa](https://www.linkedin.com/in/alice-adativa/)
   
 * [Deep KNN](Deep_Knn.pdf)
